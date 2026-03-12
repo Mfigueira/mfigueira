@@ -1,7 +1,10 @@
-- 🙋🏼‍♂️ Hi! I’m Manu
-- 💻 Full Stack Engineer
-- ⛓️ Currently building Web3 dApps
-- 💬 How to reach me? [LinkedIn](https://www.linkedin.com/in/manuel-figueira-77389390/) 
+👋🏻 Hi! I’m Manu
+
+👨🏼‍💻 Full-Stack Software Engineer focused on frontend and UI development
+
+💻 I build modern web applications using technologies like Next.js and TypeScript, as well as Web3 dApps with on-chain integrations
+
+💬 Reach me on [LinkedIn](https://www.linkedin.com/in/manuel-figueira-77389390/) 
 
 <!---
 Mfigueira/Mfigueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
