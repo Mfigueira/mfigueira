@@ -4,7 +4,7 @@
 
 💻 I build modern web applications using technologies like React, Next.js, TypeScript and Node.js, as well as Web3 dApps with on-chain integrations
 
-💬 Reach me on [LinkedIn](https://www.linkedin.com/in/manuel-figueira-77389390/) 
+💬 Reach me on [LinkedIn](https://www.linkedin.com/in/manuel-figueira/) 
 
 <!---
 Mfigueira/Mfigueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
