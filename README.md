@@ -1,8 +1,6 @@
-👋🏻 Hi! I’m Manu
+👋🏻 Hi! I’m Manu – Full-Stack Software Engineer building Web and Web3 applications.
 
-👨🏼‍💻 Full-Stack Software Engineer with frontend and UI development expertise
-
-💻 I build modern web applications using technologies like React, Next.js, TypeScript and Node.js, as well as Web3 dApps with on-chain integrations
+👨🏼‍💻 I ship, improve, and maintain modern apps with React, Next.js, TypeScript, Node.js, and related technologies. 
 
 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/manuel-figueira/) 
 
